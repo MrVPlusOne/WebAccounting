@@ -1,0 +1,50 @@
+.login-box-body {
+    width: 380px;
+    background: #fff;
+    padding: 20px;
+    border-top: 0;
+    color: #666;
+}
+
+.login-box {
+    width: 380px;
+    margin: 7% auto;
+}
+
+.btn-inverse {
+    color: white;
+    font-weight: bold;
+    border-color: #252931;
+    background-color: #252931;
+}
+
+.btn-inverse:hover{
+    color: white;
+    background-color: #404044;
+}
+
+.record-row{
+
+}
+
+.record-row:hover{
+    background-color: #D8D8E2;
+}
+
+.input-long-width{
+    width: 120px;
+}
+
+.input-middle-width{
+    width: 80px;
+}
+
+.input-short-width{
+    width: 40px;
+}
+
+.fieldLabel{
+    width: 80px;
+    text-align: right;
+    display: inline;
+}
